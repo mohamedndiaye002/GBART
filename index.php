@@ -9,6 +9,12 @@
 <body>
     <div class="tableau-div">
 
+    <?php
+        for($i=0;$i<100;$i++){
+            echo "<p>Je ne recopierai pas l'exemple de valentin</p>";
+        }
+    ?>
+
     </div>
     
 </body>
